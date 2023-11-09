@@ -1,0 +1,11 @@
+name: "my-website"
+navbar:
+  title: "My Github Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: AboutMe.html   
+    - text: "Beer Case Study"
+      href: BeerCaseStudy1.html
+   
